@@ -27,6 +27,6 @@ test:
 aws:
   <<: *default
   database: ebdb
-  host: aax8e8q6itdpz8.cvd3esvflamb.us-east-1.rds.amazonaws.com
+  host: aa1i82gci460m02.cvd3esvflamb.us-east-1.rds.amazonaws.com
   username: postgres
   password: postgres
